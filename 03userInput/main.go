@@ -20,3 +20,13 @@ func main() {
 	fmt.Printf("Type of this rating is %T", input)
 
 }
+
+// package main
+
+// import "fmt"
+
+// import "rsc.io/quote"
+
+// func main() {
+//     fmt.Println(quote.Go())
+// }
